@@ -13,4 +13,5 @@ function deleteStudent() {
 }
 
 deleteStudent()
-console.log(students)
+
+alert(students)
